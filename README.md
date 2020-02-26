@@ -13,3 +13,10 @@ These instructions will get you a copy of the project up and running on your loc
 Python3
 
 https://www.python.org/downloads/
+
+## install requirements
+pip isntall request
+pip install beautifulSoup
+
+## modify query in search.py and run script
+python search.py
