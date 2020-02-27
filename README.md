@@ -15,8 +15,10 @@ Python3
 https://www.python.org/downloads/
 
 ## install requirements
+
 pip isntall request
+
 pip install beautifulSoup
 
 ## modify query in search.py and run script
-python search.py
+search.py
