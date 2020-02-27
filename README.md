@@ -2,7 +2,7 @@
 
 ## Scraping Google Starter Script
 
-Simple script to scrape Google using `requests` and `BeautifulSoup`.
+Simple script to scrape Google using libraries  `requests` and `BeautifulSoup`.
 
 ## Getting Started
 
