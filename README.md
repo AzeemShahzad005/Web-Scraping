@@ -20,5 +20,5 @@ pip isntall request
 
 pip install beautifulSoup
 
-## modify query in search.py and run script
+## Modify query in search.py and run script
 search.py
